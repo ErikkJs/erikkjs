@@ -145,7 +145,7 @@ const bigProjects = {
       alt: "Carlos Vieira Foundation"
     },
     {
-      image: require("./assets/images/KDD.webp"),
+      image: require("./assets/images/KDD.png"),
       link: "https://www.kddmediacompany.com/",
       alt: "KDD"
     },
