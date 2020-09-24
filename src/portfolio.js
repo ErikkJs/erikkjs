@@ -4,7 +4,7 @@ const greeting = {
   username: "Erik.js",
   title: "Hi im Erik!",
   subTitle: emoji(
-    "A passionate software developer in all things javascript. Avid Learner, Teacher, And Student Of the Game."
+    "A passionate software developer in all things javascript."
   ),
   resumeLink: "https://drive.google.com/file/d/1FDYuKgsKOOmM3fm3x7BYEcTgS2VWJRI3/view?usp=sharing",
 };
@@ -17,8 +17,8 @@ const socialMediaLinks = {
 
 
 const skillsSection = {
-  title: "Who Am I?",
-  subTitle: "Just another software developer who tries to break down everything in life. Is that a chair? Who made it? What pieces were needed? How was it distributed? *comes back to reality at Starbucks.. Is life just just a javascript app running on a docker container hosted on the universe's cloud? I love to build apps, websites, and revolutionary ideas. Solving the worlds problems like the OG's before me!",
+  title: "Experiences",
+  subTitle: " I've done remote work for agencies, and collaborated with talented engineers to create web applications for both business and consumer use. I'm quietly confident and always adding new tools to my tool box.",
   skills: [
     emoji(
       "💻  Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -128,7 +128,7 @@ const workExperiences = {
 
 const bigProjects = {
   title: "Web Development",
-  subtitle: "Websites I Helped Invision by Working With Their Frontend, Backend, or Both!",
+  subtitle: "I'm proud to have collaborated with some awesome companies",
   projects: [{
       image: require("./assets/images/51.png"),
       link: "https://51fiftyltm.com/",
@@ -155,22 +155,23 @@ const bigProjects = {
       alt: "Cosecha Sana"
     },
     {
+      image: require("./assets/images/databyrd.png"),
+      link: "https://www.databyrd.com/",
+      alt: "databyrd"
+    },
+    {
       image: require("./assets/images/MMM.png"),
       link: "https://www.mendezmediamarketing.com/",
       alt: "MMM"
     },
-    {
-      image: require("./assets/images/databyrd.png"),
-      link: "https://www.databyrd.com/",
-      alt: "databyrd"
-    }
+
   ],
 };
 
 
 const achievementSection = {
-  title: emoji("Some Achievements And Certificates 🏆 👨‍🎓 "),
-  subtitle: "From Hackathon W's to Industry Course Work!",
+  title: emoji("Achievements🏆 👨‍🎓 "),
+  subtitle: "",
 
   achivementsCards: [{
       title: "2016 CSUB Electric Bookworm Hackathon",
@@ -209,7 +210,7 @@ const achievementSection = {
 
 const blogSection = {
   title: "Blogs",
-  subtitle: "Sometimes we run into some really tough problems. Ive written a solution or two!",
+  subtitle: "",
 
   blogs: [{
       url: "https://medium.com/@officialeriksoto/running-puppeteer-on-an-aws-elastic-beanstalk-instance-using-nodejs-ae423841b57a",

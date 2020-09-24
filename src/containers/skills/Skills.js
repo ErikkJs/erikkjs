@@ -11,7 +11,7 @@ export default function Skills() {
         <Fade left duration={1000}>
         <div className="skills-image-div">
           <img alt="Looking at databyrd charts" src={require("../../assets/images/loookingAtCharts.svg")}></img>
-          <div className="m-t-5">
+          <div className="m-t-40">
             {skillsSection.skills.map(skills => {
               return <p className="subTitle skills-text">{skills}</p>;
             })}

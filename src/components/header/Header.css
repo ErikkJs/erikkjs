@@ -1,5 +1,4 @@
 /* header */
-@import url(http://mcansh.github.io/yeezy-logo-font/assets/css/font.css);
 .header {
   background-color: #fff;
   max-width: 100%;
@@ -14,7 +13,7 @@
   overflow: hidden;
 }
 .grey-color {
-  color: #868e96;
+  color: black;
 }
 
 .header li a {
