@@ -4,7 +4,6 @@ import SocialMedia from '../../components/socialMedia/SocialMedia';
 import Button from '../../components/button/Button';
 import {greeting} from '../../portfolio';
 import {Fade} from 'react-reveal';
-import emoji from 'react-easy-emoji';
 
 export default function Greeting() {
   let {title, subTitle, resumeLink} = greeting;

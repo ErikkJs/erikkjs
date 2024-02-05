@@ -22,13 +22,13 @@ export default function Contact() {
             </div>
           </div>
           <div className='contact-form'>
+            <br />
             <iframe
-              src='https://app.hellobonsai.com/f/281059f18ffbd5d?embed=true&hide_header=true'
-              title='Contact Form'
-              frameBorder='0'
+              title='contact-form'
+              src='https://app.hellobonsai.com/s/erik-soto/consultation-call?embed=true'
               width='100%'
               height='100%'
-              style={{border: 'none', minHeight: '1000px'}}></iframe>
+              style={{border: 'none', minHeight: '2500px'}}></iframe>
           </div>
         </div>
       </div>

@@ -241,7 +241,7 @@ const blogSection = {
 const contactInfo = {
   title: 'Contact Me 📲',
   subtitle:
-    'Looking To Start A Web Presence Or Do You Have An Exciting Project For Me? Email me or fill out this form! ',
+    'Looking To Start A Web Presence Or Do You Have An Exciting Project For Me? Email me or book a free consultation call! ',
   email_address: 'officialeriksoto@gmail.com',
 };
 
