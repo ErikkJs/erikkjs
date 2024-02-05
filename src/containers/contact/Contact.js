@@ -28,7 +28,7 @@ export default function Contact() {
               src='https://app.hellobonsai.com/s/erik-soto/consultation-call?embed=true'
               width='100%'
               height='100%'
-              style={{border: 'none', minHeight: '2500px'}}></iframe>
+              style={{border: 'none', minHeight: '1000px'}}></iframe>
           </div>
         </div>
       </div>
